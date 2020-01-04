@@ -1,0 +1,12 @@
+.purple-dark {
+  background: #3f1052;
+}
+
+.fixed {
+  position: fixed;
+}
+
+#addTeam {
+  width: 100%;
+  margin-top: 5px;
+}
