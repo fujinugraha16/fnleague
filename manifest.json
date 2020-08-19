@@ -3,7 +3,7 @@
   "gcm_sender_id": "219222599279",
   "short_name": "FNL",
   "description": "Premiere League information",
-  "start_url": "/index.html",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#3f1052",
   "theme_color": "#3f1052",
